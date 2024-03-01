@@ -70,7 +70,15 @@ html{
     color: #ef695d;
 }
 #start-btn{
-    margin-top: 100px;
+    margin-top: 50px;
+}
+
+#timer{
+    display: flex;
+    justify-content: center;
+    margin: 30px auto;
+    color: #ef695d;
+    text-transform: uppercase;
 }
 button {
     font-size: 15px;
