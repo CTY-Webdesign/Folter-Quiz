@@ -1,0 +1,19 @@
+
+
+body{
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    margin: 0 auto;
+    text-align: center;
+}
+
+.question{
+    font-size: 15px;
+    color: #2e2d32;
+}
+
+.answer{
+    font-size: 20px;
+    color: #ef695d;
+}
